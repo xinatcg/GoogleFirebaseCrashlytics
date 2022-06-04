@@ -1,10 +1,9 @@
 fileFormatVersion: 2
-guid: 78466de0dce747f9bf1d009be141cf6f
+guid: c376dc58079140458dc2327cc3b0d5e4
 labels:
 - gvh
-- gvh_targets-editor
-- gvh_version-8.10.1
-- gvhp_exportpath-Firebase/Editor/Firebase.Crashlytics.Editor.pdb
+- gvh_version-8.9.0
+- gvhp_exportpath-Firebase/Plugins/iOS/Firebase.Crashlytics.dll.mdb
 timeCreated: 1480838400
 PluginImporter:
   serializedVersion: 1
@@ -20,7 +19,7 @@ PluginImporter:
       enabled: 0
       settings: {}
     Editor:
-      enabled: 1
+      enabled: 0
       settings:
         CPU: AnyCPU
         DefaultValueInitialized: true
@@ -68,7 +67,7 @@ PluginImporter:
       settings:
         CPU: AnyCPU
     iOS:
-      enabled: 0
+      enabled: 1
       settings:
         CompileFlags:
         FrameworkDependencies:
